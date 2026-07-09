@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/SurajBais8/LeetCode-/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/SurajBais8/LeetCode-/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SurajBais8/LeetCode-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Hash Table
 |  |
@@ -22,17 +23,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/SurajBais8/LeetCode-/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/SurajBais8/LeetCode-/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SurajBais8/LeetCode-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/SurajBais8/LeetCode-/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/SurajBais8/LeetCode-/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 ## Matrix
 |  |
 | ------- |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/SurajBais8/LeetCode-/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/SurajBais8/LeetCode-/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 ## Shortest Path
 |  |
 | ------- |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/SurajBais8/LeetCode-/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/SurajBais8/LeetCode-/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 <!---LeetCode Topics End-->
