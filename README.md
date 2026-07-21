@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/SurajBais8/LeetCode-/tree/master/0012-integer-to-roman) |
 | [1331-rank-transform-of-an-array](https://github.com/SurajBais8/LeetCode-/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SurajBais8/LeetCode-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SurajBais8/LeetCode-/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/SurajBais8/LeetCode-/tree/master/0012-integer-to-roman) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SurajBais8/LeetCode-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SurajBais8/LeetCode-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3343-count-number-of-balanced-permutations](https://github.com/SurajBais8/LeetCode-/tree/master/3343-count-number-of-balanced-permutations) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/SurajBais8/LeetCode-/tree/master/0012-integer-to-roman) |
 | [3343-count-number-of-balanced-permutations](https://github.com/SurajBais8/LeetCode-/tree/master/3343-count-number-of-balanced-permutations) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/SurajBais8/LeetCode-/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Dynamic Programming
