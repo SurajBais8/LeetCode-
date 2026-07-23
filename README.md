@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/SurajBais8/LeetCode-/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/SurajBais8/LeetCode-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SurajBais8/LeetCode-/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/SurajBais8/LeetCode-/tree/master/0014-longest-common-prefix) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/SurajBais8/LeetCode-/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/SurajBais8/LeetCode-/tree/master/0022-generate-parentheses) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SurajBais8/LeetCode-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3343-count-number-of-balanced-permutations](https://github.com/SurajBais8/LeetCode-/tree/master/3343-count-number-of-balanced-permutations) |
@@ -139,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SurajBais8/LeetCode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/SurajBais8/LeetCode-/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
