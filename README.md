@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/SurajBais8/LeetCode-/tree/master/0014-longest-common-prefix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SurajBais8/LeetCode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/SurajBais8/LeetCode-/tree/master/1331-rank-transform-of-an-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/SurajBais8/LeetCode-/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SurajBais8/LeetCode-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SurajBais8/LeetCode-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/SurajBais8/LeetCode-/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/SurajBais8/LeetCode-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/SurajBais8/LeetCode-/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SurajBais8/LeetCode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/SurajBais8/LeetCode-/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SurajBais8/LeetCode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3343-count-number-of-balanced-permutations](https://github.com/SurajBais8/LeetCode-/tree/master/3343-count-number-of-balanced-permutations) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/SurajBais8/LeetCode-/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -165,4 +167,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/SurajBais8/LeetCode-/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/SurajBais8/LeetCode-/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/SurajBais8/LeetCode-/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
